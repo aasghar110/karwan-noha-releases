@@ -1,7 +1,7 @@
 {
-  "latest": 4,
+  "latest": 5,
   "minimum": 4,
-  "name": "2.2.0",
+  "name": "2.3.0",
   "url": "https://github.com/aasghar110/karwan-noha-releases/releases/latest/download/karwan-noha.apk",
-  "notes": "Live sync now works on any hotspot or Wi-Fi, with or without internet and with mobile data on, reconnects by itself, and syncs invert. New layout touches too."
+  "notes": "Instant notifications when nohas are added, with the page to preview and a Star button; the group's own app icon."
 }
