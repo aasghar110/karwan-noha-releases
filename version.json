@@ -1,7 +1,7 @@
 {
-  "latest": 2,
+  "latest": 3,
   "minimum": 1,
-  "name": "2.0.0",
+  "name": "2.1.0",
   "url": "https://github.com/aasghar110/karwan-noha-releases/releases/latest/download/karwan-noha.apk",
-  "notes": "A new reading experience and live sync that matches the leader exactly."
+  "notes": "A new reading experience: pages open whole and zoom to the full width, live sync that matches the leader exactly, a redesigned library with stars and tags, and alerts when nohas are added."
 }
