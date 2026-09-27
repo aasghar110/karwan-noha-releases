@@ -1,7 +1,7 @@
 {
-  "latest": 5,
+  "latest": 7,
   "minimum": 4,
-  "name": "2.3.0",
+  "name": "2.5.0",
   "url": "https://github.com/aasghar110/karwan-noha-releases/releases/latest/download/karwan-noha.apk",
-  "notes": "Instant notifications when nohas are added, with the page to preview and a Star button; the group's own app icon."
+  "notes": "Group chat: the two Karwan groups, with photos, voice notes, polls and majlis events"
 }
