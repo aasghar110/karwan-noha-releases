@@ -1,7 +1,7 @@
 {
-  "latest": 10,
+  "latest": 11,
   "minimum": 4,
-  "name": "2.8.0",
+  "name": "2.9.0",
   "url": "https://github.com/aasghar110/karwan-noha-releases/releases/latest/download/karwan-noha.apk",
-  "notes": "Fix voice notes (a stale mic-permission block killed them) and tighten double-tap to 200ms / half an inch"
+  "notes": "Fix the splash screen background color not matching the logo"
 }
